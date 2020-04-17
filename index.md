@@ -1,3 +1,8 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+このサイトでは日々のちょっとした出来事を書いていきます。
+
+- 参考サイト 
+  * [Jekyll](http://jekyllrb-ja.github.io/)
+  * https://fatherfurther.github.io/github-pages-with-jekyll/
+  * GitHub Packages
